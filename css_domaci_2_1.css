@@ -1,0 +1,10 @@
+p {
+background-color: lightblue;
+font-family: verdana ;
+font-size: 18px;   }
+
+
+p:hover {
+
+	color: rgb(272, 0, 0);
+}
